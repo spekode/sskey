@@ -1,0 +1,213 @@
+UTF-8";
+
+/*
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ *
+ * WebUI for neeko's shiren keygen.
+ * Copyright (C) 2010 Patrick Geary
+ */
+
+/*
+ * This is the CSS for index.html
+ */
+#stw_b {
+	background: #FFFFFF url(shiren.jpg) no-repeat top center;
+}
+
+div.comment_d {
+ width: 470px;
+ height: 125px;
+ margin: 30px 0px;
+ background-color: #FFFFFF;
+ border: 1px solid black;
+ opacity: 0.6;
+ text-align: center;
+}
+
+div.comment_d p {
+ font-weight: bold;
+}
+
+#stw_t {
+	
+}
+
+#stw_tr_1 {
+
+}
+
+#stw_tr_2 {
+
+}
+
+#stw_tr_3 {
+
+}
+
+#stw_tr_4 {
+
+}
+
+#stw_tr_5 {
+
+}
+
+/* 1st row columns */
+#stw_td1_1 {
+
+}
+
+#stw_td1_2 {
+	text-align:center;
+}
+
+#stw_td1_3 {
+
+}
+
+/* 2nd row columns */
+#stw_td2_1 {
+
+}
+
+#stw_td2_2 {
+	text-align:center;
+}
+
+#stw_td2_3 {
+
+}
+
+/* 3rd row columns */
+#stw_td3_1 {
+
+}
+
+#stw_td3_2 {
+	text-align:center;
+}
+
+#stw_td3_3 {
+
+}
+
+/* 4th row columns */
+#stw_td4_1 {
+
+}
+
+#stw_td4_2 {
+	text-align:center;
+}
+
+#stw_td4_3 {
+
+}
+
+/* 5th row columns */
+#stw_td5_1 {
+
+}
+
+#stw_td5_2 {
+	text-align:center;
+}
+
+#stw_td5_3 {
+
+}
+
+/*
+ * This is the css for output.php
+ */
+ 
+div.stw_o_d {
+ background-color: #000000;
+ border: 1px solid white;
+ opacity: 0.8;
+}
+
+div.stw_o_d td {
+ font-weight: bold;
+ color: red;
+}
+
+#stw_o_t {
+
+}
+
+#stw_o_tr_1 {
+
+}
+#stw_o_tr_2 {
+
+}
+#stw_o_tr_3 {
+
+}
+#stw_o_tr_4 {
+
+}
+
+/* 1st row cols */
+#stw_o_td1_1 {
+
+}
+
+#stw_o_td1_2 {
+	text-align:center;
+}
+
+#stw_o_td1_3 {
+
+}
+
+/* 2nd row cols */
+#stw_o_td2_1 {
+
+}
+
+#stw_o_td2_2 {
+	text-align:center;
+}
+
+#stw_o_td2_3 {
+
+}
+
+/* 3rd row cols */
+#stw_o_td3_1 {
+
+}
+
+#stw_o_td3_2 {
+	text-align:center;
+}
+
+#stw_o_td3_3 {
+
+}
+
+/* 4th row cols */
+#stw_o_td4_1 {
+
+}
+
+#stw_o_td4_2 {
+	text-align:center;
+}
+
+#stw_o_td4_3 {
+
+}
