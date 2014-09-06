@@ -64,7 +64,7 @@ void swap(unsigned char *dst, unsigned char *src, int dir)
 
 //
 // "Encrypt" a binary password
-void encrypt(unsigned char *dst, unsigned char *src)
+void encrypt_rescue(unsigned char *dst, unsigned char *src)
 {
 	int i = 0;
 	int tmp = 0;
@@ -343,7 +343,7 @@ int main(int argc, char *argv[])
 
 	//
 	// Encrypt
-	encrypt(e_binbuf, binbuf);
+	encrypt_rescue(e_binbuf, binbuf);
 
 	//
 	// Encode
