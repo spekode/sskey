@@ -15,6 +15,15 @@ Q01N0 7MX9 PB320
 
 and 6LFJY... is the revival spell.
 
+WINDOWS USERS:
+==============
+I have included a precompiled .exe (compiled with MinGW32, tested on Windows 7 64bit)
+in the /windows directory. If you put your rescue request in the file 'rescue.txt' and run
+'rescue.bat' the result should be your revival spell. (Or you can open a shell as normal.)
+MD5 hash:
+9b0eaf3141a79af8b89ed7381493a2a3  sskey.exe
+
+
 /* Notes about password structs:
  * --
  * mtseed:
