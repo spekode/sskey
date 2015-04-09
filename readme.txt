@@ -23,6 +23,11 @@ in the /windows directory. If you put your rescue request in the file 'rescue.tx
 MD5 hash:
 9b0eaf3141a79af8b89ed7381493a2a3  sskey.exe
 
+Javascript Port
+===============
+kaysap has ported this to Javascript, you can find his repository at
+https://github.com/kaysap/sskey-js
+Thanks kaysap!
 
 /* Notes about password structs:
  * --
